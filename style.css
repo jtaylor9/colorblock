@@ -1,0 +1,55 @@
+body {
+  padding-top: 70px; /* Move body of page below navbar. */
+  font-family: 'Quicksand', sans-serif;
+}
+
+.navbar {
+  height: 70px;
+  font-size: 1.8em;
+  padding-top: 10px;
+}
+
+h1 {
+  font-size: 2.4em;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  font-size: 2.4em;
+  color: white;
+  font-family: 'Indie Flower', cursive;
+}
+
+.one, .two, .three, .four {
+  height: 550px;
+  text-align: center;
+  font-size: 2em;
+  padding-top: 178px;
+  color: white;
+}
+
+.one {
+  background-color: aqua;
+}
+
+.two {
+  background-color: aquamarine;
+}
+
+.three {
+  background-color: aqua;
+}
+
+.four {
+  background-color: aquamarine;
+}
+
+.footer {
+  height: 300px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 1.8em;
+  padding-top: 60px;
+}
